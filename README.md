@@ -5,9 +5,9 @@ I've managed to write a simple 5-layer multilayer perceptron with sigmoid activa
 
 Scores:
 
-  Train score: 0.9992044550517104 
-  
-  Test score: 0.9574074074074074
+    Train score: 0.9992044550517104 
+    
+    Test score: 0.9574074074074074
 
 It ain't much, but it's honest work as the saying goes
 
