@@ -1,2 +1,2 @@
 # nn-from-scratch
-neural network for digit recognitiona from scratch 
+A Neural network for digit (MNIST) recognition from scratch 
