@@ -1,7 +1,7 @@
 # nn-from-scratch
 A Neural network for digit recognition from scratch.
 
-I've managed to write a simple 5-layer multilayer perceptron with sigmoid activation function for recognising hand-written digits from MNIST dataset with only Numpy and Scipy
+I've managed to write a simple 5-layer multilayer perceptron with a sigmoid activation function for recognising hand-written digits from MNIST dataset with only Numpy and Scipy
 
 Scores:
 
